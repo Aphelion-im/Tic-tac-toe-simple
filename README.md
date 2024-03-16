@@ -1,4 +1,4 @@
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e3bd30d9-b0d4-4538-a503-8c575b5fee5d/deploy-status)](https://app.netlify.com/sites/tic-tac-toe-simple-javascript/deploys)
 # Tic Tac Toe simple in JavaScript
 
 Updated: 17-3-2024
